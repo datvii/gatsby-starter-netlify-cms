@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a consciencesds adsa
+title: Great coffee with a consciencesds adsaaaaaaa
 image: /img/products-grid1.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
